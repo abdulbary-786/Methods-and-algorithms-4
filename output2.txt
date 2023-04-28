@@ -1,0 +1,60 @@
+https://sc02.alicdn.com/kf/H1b52e2ed434f42be9223bcda1c3ddf88d/232031428/H1b52e2ed434f42be9223bcda1c3ddf88d.jpg
+fox squirrel : 81.9361
+weasel : 3.3884
+mink : 2.7453
+polecat : 2.606
+titi : 1.7149
+langur : 1.4416
+marmoset : 0.9321
+hamster : 0.808
+mousetrap : 0.7612
+macaque : 0.5834
+
+https://i.pinimg.com/originals/06/bd/82/06bd82a32fd9a0ec6e5151dfadd7538a.jpg
+kit fox : 87.8731
+red fox : 8.0075
+Arctic fox : 2.7376
+grey fox : 1.2551
+capuchin : 0.0674
+weasel : 0.0116
+schipperke : 0.0081
+white wolf : 0.0059
+polecat : 0.0048
+coyote : 0.003
+
+https://mobimg.b-cdn.net/v3/fetch/74/749a8e93ee92cfd039a1a0f2b25e3956.jpeg
+polecat : 62.813
+lesser panda : 26.5094
+weasel : 4.3677
+black-footed ferret : 4.2186
+otter : 0.876
+mink : 0.4031
+Arctic fox : 0.14
+badger : 0.0958
+hamster : 0.0606
+kit fox : 0.0605
+
+https://img4.goodfon.ru/original/2048x1365/6/7f/puma-malyshi-detenyshi.jpg
+lynx : 45.4252
+cougar : 35.0692
+snow leopard : 8.6117
+grey fox : 2.0064
+Arctic fox : 1.0112
+Egyptian cat : 0.8908
+red wolf : 0.8051
+kit fox : 0.7351
+leopard : 0.714
+tabby : 0.6889
+
+https://64.media.tumblr.com/5fc9a38df4ffcb59ca160731863dbc2e/tumblr_onkh2lL42x1roirddo1_1280.jpg
+impala : 54.664
+gazelle : 27.6124
+wallaby : 5.2398
+ibex : 4.0844
+Italian greyhound : 2.4726
+hare : 1.1091
+ram : 0.5945
+llama : 0.5473
+whippet : 0.3997
+bighorn : 0.374
+
