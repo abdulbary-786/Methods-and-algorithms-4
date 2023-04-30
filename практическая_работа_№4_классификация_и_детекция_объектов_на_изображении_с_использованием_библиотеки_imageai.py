@@ -163,30 +163,32 @@ for i in range(len(urls)):
     with open("output2.txt", "a") as file:
         file.write("\n")
 
-"""# Задание №3. Детекция и трекинг объектов на видеопотоке
+"""Результат задания №2 по классификацией изображения в Excel файле
+
+# Задание №3. Детекция и трекинг объектов на видеопотоке
 
 #### 3.1. Загрузил готовую модель для детекции объектов
 """
 
 from imageai.Detection import VideoObjectDetection
 import os
-import cv2
-execution_path = os.getcwd()
-camera = cv2.VideoCapture(0)
-execution_path = os.getcwd()
+exec_path = os.getcwd()
+
 detector = VideoObjectDetection()
 detector.setModelTypeAsTinyYOLOv3()
-detector.setModelPath(os.path.join(execution_path ,"/content/drive/MyDrive/tiny-yolov3.pt"))
+detector.setModelPath(os.path.join(exec_path , "/content/drive/MyDrive/tiny-yolov3.pt"))
 detector.loadModel()
-detector.useCPU()
 
 """#### 3.2. Используя данную модель, обрабатываю 5 видеофайлов, и сохраняю полученные видеофайлы
 
 """
 
-video_path = detector.detectObjectsFromVideo(input_file_path=os.path.join(execution_path, "video.mp4"),
-                            output_file_path=os.path.join(execution_path, "video_output")
-                            , frames_per_second=20, log_progress=True)
-print(video_path)
+exec_path_video = os.path.join(exec_path, '/content/drive/MyDrive/work 4/videos')
+
+video_path = detector.detectObjectsFromVideo(
+input_file_path=os.path.join(execution_path, "/content/drive/MyDrive/work 4/videos/video4.mp4"),
+output_file_path=os.path.join(execution_path, "/content/drive/MyDrive/work 4/videos/video4_output"), 
+frames_per_second=20, 
+log_progress=True)
 
 """Можно посмотреть результаты  5 видеофайлов по данной ссылке: https://drive.google.com/drive/folders/1lcuISkHHbW2yj6jLH1jGA0Ytw-kzwpfw"""
